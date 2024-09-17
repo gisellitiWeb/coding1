@@ -1,6 +1,6 @@
 # coding1; Resumo - aula 04/09
 
-#Resumo da aula, o que aconteceu?
+## Resumo da aula, o que aconteceu?
 
 Hoje na aula de coding os alunos que não tinham github agora tem. A professora ensinou como se fazia uma conta no github e também os ajudou a criar um Readme em seus perfis (eu inclusa porque não tinha um readme ainda). Com isso depois de alguns minutos de prática, todos estavam com suas contas no github.
 
