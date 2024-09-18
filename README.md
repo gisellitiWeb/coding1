@@ -8,4 +8,4 @@ Criamos este arquivo de Coding para passar as informações que foram dadas no e
 
 # Coding1; Resumo- atividade feita dia 17/09
 
-A professora passou atividades de fixa
+A professora passou atividades de fixação e na aula (dia 18/09/2024) passou os comandos gits para fixar na cabeça
